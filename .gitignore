@@ -5,6 +5,7 @@ build/*
 *.pbxuser
 *.perspective
 *.perspectivev3
+TouchJSON.xcodeproj/xcuserdata/
 
 # old skool
 .svn
